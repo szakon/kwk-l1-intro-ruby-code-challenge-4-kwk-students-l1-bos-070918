@@ -12,4 +12,4 @@ def least_coins(cents)
 #Code your answer here!
 
 end
-puts least_coin(42)
+puts least_coins(42)
